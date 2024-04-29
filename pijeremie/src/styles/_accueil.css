@@ -1,0 +1,32 @@
+
+.accueil-txt {
+    margin: 30px auto 100px;
+}
+.accueil-txt h1 {
+    margin: 50px 50px;
+}
+.accueil-txt p {
+    font-style: italic;
+    margin: auto 20px;
+}
+#fleche {
+    text-align: center;
+}
+.theme {
+    margin: 250px auto;
+    text-align: center;
+}
+.themes { 
+    margin: 50px auto;  
+}
+.theme1, .theme2, .theme3, .theme4, .theme5 {
+    margin: 50px auto 50px;
+    text-align: center;
+} 
+#elephant-img, #araignee-img, #paysage-img, #femme-img, 
+#goku-img, #perroquet-img, #tigre-img, #singe-img,
+#bob-img, #jimi-img,
+#papillon-img, #colombe-img {
+    margin: 20px;
+    vertical-align: middle;
+}

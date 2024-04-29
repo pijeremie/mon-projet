@@ -1,0 +1,15 @@
+{
+  "short_name": "React App",
+  "icons": [
+    {
+      "src": "pijeremie-ico.ico",
+      "sizes": "256x241",
+      "type": "image/png"
+    }
+  ],
+  "name": "Create React App Sample",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

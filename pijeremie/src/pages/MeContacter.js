@@ -20,10 +20,10 @@ const MeContacter = () => {
                     <label for="sujet">Quel est le sujet de votre message ?&emsp;</label> 
                     <select id="sujet" name="sujet" required>
                         <option value="" disabled selected hidden>Sujet de votre message</option>
-                        <option value="probleme-compte">Thème à aborder en dessin ou peinture</option>
-                        <option value="question-produit">Sujet à aborder (TSA, bipolarité, etc.)</option>
-                        <option value="suivi-commande">Demande</option> 
-                        <option value="suivi-commande">Collaboration</option> 
+                        <option value="theme">Thème à aborder en dessin ou peinture</option>
+                        <option value="sujet">Sujet à aborder (TSA, bipolarité, etc.)</option>
+                        <option value="demande">Demande</option> 
+                        <option value="collaboration">Collaboration</option> 
                         <option value="autre">Autre</option>
                     </select>
                 </div>

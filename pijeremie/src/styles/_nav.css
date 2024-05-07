@@ -4,17 +4,17 @@
 	width: 100%;  
     height: 4em; 
 } 
-#accueil-nav, #a-propos-de-moi-nav, #me-contacter-nav {
+#accueil-nav, #tutoriel-nav, #me-contacter-nav {
     color: rgb(89, 93, 93);
     text-decoration: none; 
 }
-#accueil-nav li, #a-propos-de-moi-nav li , #me-contacter-nav li {
+#accueil-nav li, #tutoriel-nav li , #me-contacter-nav li {
     float: right;
     display: inline; 
     font-weight: bold;
     padding: 10px 20px;   
 }
-#accueil-nav:hover, #a-propos-de-moi-nav:hover, #me-contacter-nav:hover {
+#accueil-nav:hover, #tutoriel-nav:hover, #me-contacter-nav:hover {
 	color: rgb(127, 86, 189);
     transition: .2s;
 }

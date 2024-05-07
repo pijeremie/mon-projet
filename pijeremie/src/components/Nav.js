@@ -8,6 +8,9 @@ const Nav = () => {
                 <NavLink id="me-contacter-nav" exact to='/me-contacter' activeClassName="nav-active">
                     <li>Me contacter</li>
                 </NavLink> 
+                <NavLink id="tutoriel-nav" exact to='/tutoriel' activeClassName="nav-active">
+                    <li>Tutoriel</li>
+                </NavLink> 
                 <NavLink id="accueil-nav" exact to='/' activeClassName="nav-active">
                     <li>p¡ jeremie!</li>
                 </NavLink>

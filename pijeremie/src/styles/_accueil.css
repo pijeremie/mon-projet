@@ -19,14 +19,14 @@
 .themes { 
     margin: 50px auto;  
 }
-.theme1, .theme2, .theme3, .theme4, .theme5 {
+.theme1, .theme2, .theme3, .theme4, .theme5, .theme6 {
     margin: 50px auto 50px;
     text-align: center;
 } 
 #elephant-img, #araignee-img, #paysage-img, #femme-img, 
 #goku-img, #perroquet-img, #tigre-img, #singe-img,
-#bob-img, #jimi-img,
-#papillon-img, #colombe-img {
+#bob-img, #jimi-img, #jacksparrow-img, #amerindienne-img,
+#leo-img, #papillon-img, #colombe-img {
     margin: 20px;
     vertical-align: middle;
 }

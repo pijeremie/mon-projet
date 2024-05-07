@@ -9,7 +9,8 @@ import Theme1 from '../components/Theme1';
 import Theme2 from '../components/Theme2';
 import Theme3 from '../components/Theme3';
 import Theme4 from '../components/Theme4';
-import Theme5 from '../components/Theme5'; 
+import Theme5 from '../components/Theme5';
+import Theme6 from '../components/Theme6'; 
 import Footer from '../components/Footer';  
 
 const Accueil = () => {
@@ -30,6 +31,8 @@ const Accueil = () => {
                 <Theme4 />
                 <Espace />
                 <Theme5 /> 
+                <Espace /> 
+                <Theme6 /> 
                 <Espace /> 
             </div>
             <ScrollButton />

@@ -1,15 +1,17 @@
 import React from 'react';
-import Papillon from '../assets/papillon.png';  
-import Colombe from '../assets/colombe.png';   
+import JackSparrow from '../assets/jacksparrow.png'
+import Amerindienne from '../assets/ameridienne.png'
+import Leo from '../assets/leo.jpg'
 
 const Theme5 = () => {
     return (
         <div className="themes">
-            <h1 data-aos="fade-up">¡Thème n°5 : La liberté!</h1>
+            <h1 data-aos="fade-up">¡Thème n°5 : Le racisme!</h1>
             <div className='theme5'>
-                <img data-aos="fade-up" id="papillon-img" src={Papillon} alt="papillon" width={'300px'} />
-                <img data-aos="fade-up" id="colombe-img" src={Colombe} alt="colombe" width={'400px'} />  
-                <p data-aos="fade-up">Penser, s'exprimer et agir selon ses valeurs, ses croyances, ses besoins et ses désirs.</p>
+                <img data-aos="fade-up" id="amerindienne-img" src={Amerindienne} alt="amerindienne" width={'400px'} />  
+                <img data-aos="fade-up" id="leo-img" src={Leo} alt="leo" width={'375px'} />  
+                <img data-aos="fade-up" id="jacksparrow-img" src={JackSparrow} alt="jack-sparrow" width={'400px'} />  
+                <p data-aos="fade-up">Le racisme vient de la méconnaissance de l'autre, de sa culture, de ses origines, de son identité. Si l'on apprend à connaitre et que l'on ouvre notre esprit, on découvre que nous sommes égaux.</p>
             </div>
         </div>
     );

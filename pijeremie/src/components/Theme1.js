@@ -11,7 +11,8 @@ const Theme1 = () => {
                 <img data-aos="fade-up" id="elephant-img" src={Elephant} alt="elephant" width={'400px'}/>
                 <img data-aos="fade-up" id="araignee-img" src={Araignee} alt="araignee" width={'400px'} />
                 <img data-aos="fade-up" id="paysage-img" src={Paysage} alt="paysage" width={'400px'} />
-                <p data-aos="fade-up">Des civils innocents sont tués, massacrés, emprisonnés sans raison alors qu'ils pourraient simplement vivre ensemble et cohabiter.<br></br> La terre appartient à tout le monde.</p>
+                <p data-aos="fade-up">Des civils innocents sont tués, massacrés, emprisonnés sans raison alors qu'ils pourraient simplement vivre ensemble et cohabiter.</p>
+                <p data-aos="fade-up">La terre appartient à tout le monde.</p>
             </div> 
         </div>
     );

@@ -11,7 +11,8 @@ const Theme3 = () => {
                 <img data-aos="fade-up" id="perroquet-img" src={Perroquet} alt="perroquet" width={'350px'} />
                 <img data-aos="fade-up" id="tigre-img" src={Tigre} alt="tigre" width={'300px'} />
                 <img data-aos="fade-up" id="singe-img" src={Singe} alt="singe" width={'325px'} />
-                <p data-aos="fade-up">La place des animaux n'est pas dans un zoo. Ils ont besoin d'être attaché à leur environnement naturel pour pouvoir se développer.</p> 
+                <p data-aos="fade-up">La place des animaux n'est pas dans un zoo.</p>
+                <p data-aos="fade-up">Ils ont besoin d'être attaché à leur environnement naturel pour pouvoir se développer.</p> 
             </div>  
         </div>
     );

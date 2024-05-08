@@ -15,8 +15,8 @@ const Tutoriel = () => {
             <div className="tutos">   
                 <h1>¡Tutoriel!</h1>              
                 <div className='tuto'>
-                    <img data-aos="fade-up" id="tuto-elephant" src={TutoElephant} alt="tuto-elephant" width={'500px'}/>&emsp;  
-                    <img data-aos="fade-up" id="tuto-batman" src={TutoBatman} alt="tuto-batman" width={'500px'}/>  
+                    <img data-aos="fade-up" id="tuto-elephant" src={TutoElephant} alt="tuto-elephant" width={'450px'}/>&emsp;  
+                    <img data-aos="fade-up" id="tuto-batman" src={TutoBatman} alt="tuto-batman" width={'450px'}/>  
                 </div>
             </div>
         </div>  

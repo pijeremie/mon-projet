@@ -8,10 +8,11 @@ const Theme5 = () => {
         <div className="themes">
             <h1 data-aos="fade-up">¡Thème n°5 : Le racisme!</h1>
             <div className='theme5'>
-                <img data-aos="fade-up" id="amerindienne-img" src={Amerindienne} alt="amerindienne" width={'400px'} />  
-                <img data-aos="fade-up" id="leo-img" src={Leo} alt="leo" width={'375px'} />  
-                <img data-aos="fade-up" id="jacksparrow-img" src={JackSparrow} alt="jack-sparrow" width={'400px'} />  
-                <p data-aos="fade-up">Le racisme vient de la méconnaissance de l'autre, de sa culture, de ses origines, de son identité. Si l'on apprend à connaitre et que l'on ouvre notre esprit, on découvre que nous sommes égaux.</p>
+                <img data-aos="fade-up" id="amerindienne-img" src={Amerindienne} alt="amerindienne" width={'350px'} />  
+                <img data-aos="fade-up" id="leo-img" src={Leo} alt="leo" width={'325px'} />  
+                <img data-aos="fade-up" id="jacksparrow-img" src={JackSparrow} alt="jack-sparrow" width={'350px'} />  
+                <p data-aos="fade-up">Le racisme vient de la méconnaissance de l'autre, de sa culture, de ses origines, de son identité.</p>
+                <p data-aos="fade-up">Si l'on apprend à connaitre et que l'on ouvre notre esprit, on découvre que nous sommes égaux.</p>
             </div>
         </div>
     );
